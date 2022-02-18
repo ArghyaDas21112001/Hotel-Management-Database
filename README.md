@@ -1,9 +1,9 @@
-# Hotel-Management-Database
+# HOTEL-MANGEMENT-GUI-AND-NORMAL-PROGRAM-PYTHON-
 I have tried to computerize the hotel management system through my project.
-he project is written in Python 3 that uses OOPS concept ie it is based on object and classes.
+The project is written in Python 3 that uses OOPS concept ie it is based on object and classes.
 
-FOR THE GUI I HAVE USED TKINTER AND PAGE:
+FOR THE GUI I HAVE USED TKINTER AND PAGE
 
--> THE NORMAL CODE IS NAMED AS MAIN.PY
+THE NORMAL CODE IS NAMED AS MAIN.PY
 
--> TO RUN THE GUI JUST EXECUTE MAINLY.PY
+TO RUN THE GUI JUST EXECUTE MAINLY.PY
